@@ -1,0 +1,31 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+*.env
+.venv/
+
+# IDE/Editor specific files
+.vs/
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts (from PyInstaller)
+dist/
+build/
+*.spec
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Configuration file (if accidentally created in project dir)
+# Assuming your config is correctly saved in AppData/user config dirs,
+# this might not be strictly necessary, but good as a safeguard.
+config.json

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hardcover Librarian", "Hardcover Librarian.pyproj", "{DC508D2A-B2C6-4952-B549-55C02DC8BD67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC508D2A-B2C6-4952-B549-55C02DC8BD67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC508D2A-B2C6-4952-B549-55C02DC8BD67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC4EE3F9-F30D-453E-B165-FF7A53663B49}
+	EndGlobalSection
+EndGlobal
