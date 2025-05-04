@@ -37,10 +37,10 @@ A simple desktop application to fetch and display book and edition data from the
 3.  **Enter the Hardcover Book ID** you will want to look this up.
 4.  **Click "Fetch Data"**.
 
-(screenshots/fetch_data.png)
+![Fetch Data button and input fields](screenshots/fetch_data.png)
 
 5.  View the formatted results in the "Output" tab. Clickable links are underlined and colored.
 
-(screenshots/output_1.png)
+![Example Output Tab View 1](screenshots/output_1.png)
 
-(screenshots/output_2.png)
+![Example Output Tab View 2](screenshots/output_2.png)
