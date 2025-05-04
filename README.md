@@ -19,7 +19,7 @@ A simple desktop application to fetch and display book and edition data from the
 
 1.  **Clone the repository (or download the files):**
     ```bash
-    git clone [https://github.com/YourUsername/Hardcover-Librarian.git](https://github.com/YourUsername/Hardcover-Librarian.git)
+    git clone https://github.com/mlitz/Hardcover-Librarian.git
     cd Hardcover-Librarian
     ```
 2.  **Install dependencies:**
