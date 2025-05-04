@@ -9,7 +9,6 @@ A simple desktop application to fetch and display book and edition data from the
 * Displays formatted output with color-coding and data quality flags (e.g., missing ISBNs, low scores).
 * Sorts editions by score (lowest first).
 * Includes clickable links to Hardcover pages (Book, Edition Edit) and external platforms (Goodreads, Google Books, etc.).
-* Dark theme UI.
 
 ## Prerequisites
 
@@ -20,24 +19,21 @@ A simple desktop application to fetch and display book and edition data from the
 
 1.  **Clone the repository (or download the files):**
     ```bash
-    # Example if cloning from GitHub later
-    # git clone [https://github.com/YourUsername/Hardcover-Librarian.git](https://github.com/YourUsername/Hardcover-Librarian.git)
-    # cd Hardcover-Librarian
+    git clone [https://github.com/YourUsername/Hardcover-Librarian.git](https://github.com/YourUsername/Hardcover-Librarian.git)
+    cd Hardcover-Librarian
     ```
 2.  **Install dependencies:**
     ```bash
-    pip install -r requirements.txt
-    # Or: pip3 install -r requirements.txt
+    pip3 install -r requirements.txt
     ```
 
 ## Usage
 
 1.  **Run the script:**
     ```bash
-    python Hardcover_Librarian.py
-    # Or: python3 Hardcover_Librarian.py
+    python3 Hardcover_Librarian.py
     ```
 2.  **Enter your Hardcover Bearer Token** in the first input field. The token will be saved (obfuscated) locally for future use.
-3.  **Enter the Hardcover Book ID** you want to look up.
+3.  **Enter the Hardcover Book ID** you will want to look this up.
 4.  **Click "Fetch Data"**.
 5.  View the formatted results in the "Output" tab. Clickable links are underlined and colored.
