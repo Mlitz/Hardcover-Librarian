@@ -31,9 +31,16 @@ A simple desktop application to fetch and display book and edition data from the
 
 1.  **Run the script:**
     ```bash
-    python3 Hardcover_Librarian.py
+    python Hardcover_Librarian.py
     ```
 2.  **Enter your Hardcover Bearer Token** in the first input field. The token will be saved (obfuscated) locally for future use.
 3.  **Enter the Hardcover Book ID** you will want to look this up.
 4.  **Click "Fetch Data"**.
+
+(screenshots/fetch_data.png)
+
 5.  View the formatted results in the "Output" tab. Clickable links are underlined and colored.
+
+(screenshots/output_1.png)
+
+(screenshots/output_2.png)
