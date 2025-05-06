@@ -1,4 +1,4 @@
-# Hardcover Librarian Tool
+# Hardcover Librarian Assistant
 
 A simple desktop application to fetch and display book and edition data from the Hardcover.app API, designed to help librarians review data quality.
 
